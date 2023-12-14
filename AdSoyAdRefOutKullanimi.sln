@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdSoyAdRefOutKullanimi", "AdSoyAdRefOutKullanimi\AdSoyAdRefOutKullanimi.csproj", "{754F3F10-E3F8-4FE9-B9F8-D35EE4511B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754F3F10-E3F8-4FE9-B9F8-D35EE4511B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754F3F10-E3F8-4FE9-B9F8-D35EE4511B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754F3F10-E3F8-4FE9-B9F8-D35EE4511B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754F3F10-E3F8-4FE9-B9F8-D35EE4511B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0538FFE-6B8C-4C66-A1CB-F71F8F7EC0E0}
+	EndGlobalSection
+EndGlobal
